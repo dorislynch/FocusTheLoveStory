@@ -1,0 +1,6 @@
+framework module Pods_RNFocusTheLoveStory {
+  umbrella header "Pods-RNFocusTheLoveStory-umbrella.h"
+
+  export *
+  module * { export * }
+}
